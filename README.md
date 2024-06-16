@@ -4,7 +4,7 @@
 A simple file hashing utility written in Python to verify file integrity.
 
 ## FileHasherList
-- (**TODO**)
+- Define file format
 
 ## To-Do:
-- FileHasherList utility, generate a file hash list for FileHasher to parse, useful to verify a large directory with many files.
+- FileHasherList utility, generate a file hash list for FileHasher to parse, useful to verify a large directory with many files. Used to match state with a file hash list.
