@@ -1,4 +1,4 @@
-# __Two-Part File Hashing Tool__
+# __File Hashing Tool__
 
 ## FileHasher
 A simple file hashing utility written in Python to verify file integrity.
@@ -7,4 +7,4 @@ A simple file hashing utility written in Python to verify file integrity.
 - Define file format
 
 ## To-Do:
-- FileHasherList utility, generate a file hash list for FileHasher to parse, useful to verify a large directory with many files. Used to match state with a file hash list.
+- FileHasherList (.fhl) format, generate a file hash list for FileHasher to parse, useful to verify a large directory with many files. Used to match state with a file hash list.
